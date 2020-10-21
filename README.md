@@ -4,9 +4,9 @@ Prerequisites:
 
 check for kubectl version `kubectl version` or `kubectl version --short`.  
 
-check the helm version `helm version` or `helm version -short` 
+check the helm version `helm version` or `helm version --short` 
 
-check the location of helm `which helm`  
+check the path location of helm `which helm`  
 
 list the helm charts `helm list`  
 
